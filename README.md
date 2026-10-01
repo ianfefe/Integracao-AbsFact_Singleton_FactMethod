@@ -1,1 +1,3 @@
-# Integracao-AbsFact_Singleton_FactMethod
+# Integracao Abstract Factory + Singleton + Factory Method
+
+![alt text](diagrama.png)
